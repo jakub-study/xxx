@@ -1,2 +1,5 @@
 a = "b"
 print(a)
+
+cc = 7
+pirnt(c)
